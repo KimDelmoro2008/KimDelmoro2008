@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 340" width="490" height="340">
+<style>
+.win{fill:#f6f8fa;stroke:#d0d7de} .bar{fill:#eaeef2}
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;font-size:13px}
+.tx{fill:#24292f} .hd{fill:#24292f;font-weight:bold} .ru{fill:#8c959f} .ttl{fill:#57606a;font-size:12px}
+.k0{fill:#0969da;font-weight:bold} .k1{fill:#8250df;font-weight:bold}
+.k2{fill:#1a7f37;font-weight:bold} .k3{fill:#bc4c00;font-weight:bold}
+@media (prefers-color-scheme: dark){
+.win{fill:#0d1117;stroke:#30363d} .bar{fill:#161b22}
+.tx{fill:#c9d1d9} .hd{fill:#f0f6fc} .ru{fill:#484f58} .ttl{fill:#8b949e}
+.k0{fill:#58a6ff} .k1{fill:#bc8cff} .k2{fill:#3fb950} .k3{fill:#ffa657}
+}
+.ln{animation:in .45s ease-out both}@keyframes in{from{opacity:0;transform:translateX(-10px)}to{opacity:1;transform:none}}
+</style>
+<rect class="win" x="0.5" y="0.5" width="489" height="339" rx="8"/>
+<path class="bar" d="M1 9a8 8 0 0 1 8-8h472a8 8 0 0 1 8 8v26H1z"/>
+<circle cx="20" cy="18" r="5" fill="#ff5f56"/><circle cx="38" cy="18" r="5" fill="#ffbd2e"/><circle cx="56" cy="18" r="5" fill="#27c93f"/>
+<text class="ttl" x="245" y="22" text-anchor="middle">kim@github - neofetch</text>
+<text class="ln hd" x="24" y="66" style="animation-delay:0.40s" xml:space="preserve">kim@github</text>
+<text class="ln ru" x="24" y="88" style="animation-delay:0.56s" xml:space="preserve">------------</text>
+<text class="ln k0" x="24" y="121" style="animation-delay:0.72s" xml:space="preserve">Now:</text>
+<text class="ln tx" x="138" y="121" style="animation-delay:0.72s" xml:space="preserve">First-year college student</text>
+<text class="ln k1" x="24" y="143" style="animation-delay:0.88s" xml:space="preserve">Goal:</text>
+<text class="ln tx" x="138" y="143" style="animation-delay:0.88s" xml:space="preserve">Cloud engineer</text>
+<text class="ln k2" x="24" y="165" style="animation-delay:1.04s" xml:space="preserve">Prev:</text>
+<text class="ln tx" x="138" y="165" style="animation-delay:1.04s" xml:space="preserve">Senior high school</text>
+<text class="ln k3" x="24" y="187" style="animation-delay:1.20s" xml:space="preserve">Stack:</text>
+<text class="ln tx" x="138" y="187" style="animation-delay:1.20s" xml:space="preserve">Python, Git, HTML/CSS/JS</text>
+<text class="ln k0" x="24" y="209" style="animation-delay:1.36s" xml:space="preserve">Highlights:</text>
+<text class="ln tx" x="138" y="209" style="animation-delay:1.36s" xml:space="preserve">Built CofeLang, a student cafe site</text>
+<text class="ln tx" x="138" y="231" style="animation-delay:1.52s" xml:space="preserve">Learning Linux and cloud basics</text>
+</svg>
