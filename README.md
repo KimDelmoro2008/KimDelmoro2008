@@ -13,4 +13,8 @@
   </tr>
 </table>
 
+<h3><code>kim@github ~ $ ./links.sh</code></h3>
+
+<p><b>Fullstack Developer · AI Builder · Instructor</b></p>
+
 </div>
