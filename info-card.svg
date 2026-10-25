@@ -15,18 +15,18 @@ text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",mo
 <rect class="win" x="0.5" y="0.5" width="489" height="339" rx="8"/>
 <path class="bar" d="M1 9a8 8 0 0 1 8-8h472a8 8 0 0 1 8 8v26H1z"/>
 <circle cx="20" cy="18" r="5" fill="#ff5f56"/><circle cx="38" cy="18" r="5" fill="#ffbd2e"/><circle cx="56" cy="18" r="5" fill="#27c93f"/>
-<text class="ttl" x="245" y="22" text-anchor="middle">kim@github - neofetch</text>
+<text class="ttl" x="245" y="22" text-anchor="middle">kim@github - stats</text>
 <text class="ln hd" x="24" y="66" style="animation-delay:0.40s" xml:space="preserve">kim@github</text>
 <text class="ln ru" x="24" y="88" style="animation-delay:0.56s" xml:space="preserve">------------</text>
 <text class="ln k0" x="24" y="121" style="animation-delay:0.72s" xml:space="preserve">Now:</text>
 <text class="ln tx" x="138" y="121" style="animation-delay:0.72s" xml:space="preserve">First-year college student</text>
 <text class="ln k1" x="24" y="143" style="animation-delay:0.88s" xml:space="preserve">Goal:</text>
 <text class="ln tx" x="138" y="143" style="animation-delay:0.88s" xml:space="preserve">Cloud engineer</text>
-<text class="ln k2" x="24" y="165" style="animation-delay:1.04s" xml:space="preserve">Prev:</text>
-<text class="ln tx" x="138" y="165" style="animation-delay:1.04s" xml:space="preserve">Senior high school</text>
+<text class="ln k2" x="24" y="165" style="animation-delay:1.04s" xml:space="preserve">Latest Project</text>
+<text class="ln tx" x="138" y="165" style="animation-delay:1.04s" xml:space="preserve">CofeLang Web Development</text>
 <text class="ln k3" x="24" y="187" style="animation-delay:1.20s" xml:space="preserve">Stack:</text>
-<text class="ln tx" x="138" y="187" style="animation-delay:1.20s" xml:space="preserve">Python, Git, HTML/CSS/JS</text>
+<text class="ln tx" x="138" y="187" style="animation-delay:1.20s" xml:space="preserve">C++ HTML/CSS/JS</text>
 <text class="ln k0" x="24" y="209" style="animation-delay:1.36s" xml:space="preserve">Highlights:</text>
-<text class="ln tx" x="138" y="209" style="animation-delay:1.36s" xml:space="preserve">Built CofeLang, a student cafe site</text>
-<text class="ln tx" x="138" y="231" style="animation-delay:1.52s" xml:space="preserve">Learning Linux and cloud basics</text>
+<text class="ln tx" x="138" y="209" style="animation-delay:1.36s" xml:space="preserve">The Future Cloud Engineering</text>
+<text class="ln tx" x="138" y="231" style="animation-delay:1.52s" xml:space="preserve"></text>
 </svg>
