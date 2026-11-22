@@ -2,41 +2,6 @@
  "username": "KimDelmoro2008",
  "days": [
   {
-   "date": "2025-11-16",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-17",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-18",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-19",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-20",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-21",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-22",
-   "count": 0,
-   "level": 0
-  },
-  {
    "date": "2025-11-23",
    "count": 0,
    "level": 0
@@ -1853,13 +1818,18 @@
   },
   {
    "date": "2026-11-21",
+   "count": 1,
+   "level": 1
+  },
+  {
+   "date": "2026-11-22",
    "count": 0,
    "level": 0
   }
  ],
- "total": 123,
- "current_streak": 28,
- "longest_streak": 28,
+ "total": 124,
+ "current_streak": 29,
+ "longest_streak": 29,
  "best_day": {
   "date": "2026-10-24",
   "count": 14
@@ -1877,6 +1847,6 @@
   "2026-08": 6,
   "2026-09": 40,
   "2026-10": 40,
-  "2026-11": 37
+  "2026-11": 38
  }
 }
